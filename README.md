@@ -18,7 +18,7 @@ name_replacements = {
     3: {"Mrs. Bennet": "Mr. Bennet"},
     4: {"Mr. Bennet": "Mrs. Bennet"},
     5: {"Lydia": "Luke"},
-    18: {"Kitty": "Connie", "Catherine": "Constance"},
+    18: {"Kitty": "Connie", "Catherine": "Connor"},
     19: {"Mary": "Morris"},
     24: {"daughters": "sons", "girls": "boys", "ladies": "gentlemen", "sisters": "brothers"}
 }
