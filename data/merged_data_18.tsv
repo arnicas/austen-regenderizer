@@ -1,0 +1,141 @@
+ent	loc	string	filenum	id	ent_name	start	end
+T0	ENT 46 55	Longbourn	18	20	Mr. Collins	46	55
+T1	ENT 58 69	Mr. Collins	18	20	Mr. Collins	58	69
+T2	ENT 75 78	his	18	20	Mr. Collins	75	78
+T3	ENT 152 155	his	18	20	Mr. Collins	152	155
+T4	ENT 278 285	himself	18	20	Mr. Collins	278	285
+T5	ENT 307 309	he	18	20	Mr. Collins	307	309
+T6	ENT 383 385	he	18	20	Mr. Collins	383	385
+T7	ENT 439 450	Mrs. Bennet	18	3	Mrs. Bennet	439	450
+T8	ENT 453 462	Elizabeth	18	0	Elizabeth	453	462
+T9	ENT 469 493	one of the younger girls	18	18	Kitty	469	493
+T10	ENT 476 493	the younger girls	18	30	KittyLydia	476	493
+T11	ENT 528 530	he	18	20	Mr. Collins	528	530
+T12	ENT 541 551	the mother	18	3	Mrs. Bennet	541	551
+T13	ENT 585 590	madam	18	3	Mrs. Bennet	585	590
+T14	ENT 616 634	your fair daughter	18	0	Elizabeth	616	634
+T15	ENT 635 644	Elizabeth	18	0	Elizabeth	635	644
+T16	ENT 704 707	her	18	0	Elizabeth	704	707
+T17	ENT 750 759	Elizabeth	18	0	Elizabeth	750	759
+T18	ENT 808 819	Mrs. Bennet	18	3	Mrs. Bennet	808	819
+T19	ENT 886 891	Lizzy	18	0	Elizabeth	886	891
+T20	ENT 924 927	she	18	0	Elizabeth	924	927
+T21	ENT 959 964	Kitty	18	18	Kitty	959	964
+T22	ENT 981 987	stairs	18	-1	NONE	981	987
+T23	ENT 1009 1012	her	18	3	Mrs. Bennet	1009	1012
+T24	ENT 1029 1032	she	18	3	Mrs. Bennet	1029	1032
+T25	ENT 1059 1068	Elizabeth	18	0	Elizabeth	1059	1068
+T26	ENT 1085 1095	Dear madam	18	3	Mrs. Bennet	1085	1095
+T27	ENT 1134 1145	Mr. Collins	18	20	Mr. Collins	1134	1145
+T28	ENT 1163 1165	He	18	20	Mr. Collins	1163	1165
+T29	ENT 1201 1208	anybody	18	-1	NONE	1201	1208
+T30	ENT 1277 1282	Lizzy	18	0	Elizabeth	1277	1282
+T31	ENT 1334 1343	Elizabeth	18	0	Elizabeth	1334	1343
+T32	ENT 1417 1420	she	18	3	Mrs. Bennet	1417	1420
+T33	ENT 1432 1437	Lizzy	18	0	Elizabeth	1432	1437
+T34	ENT 1483 1494	Mr. Collins	18	20	Mr. Collins	1483	1494
+T35	ENT 1500 1509	Elizabeth	18	0	Elizabeth	1500	1509
+T36	ENT 1586 1589	her	18	0	Elizabeth	1586	1589
+T37	ENT 1680 1683	she	18	0	Elizabeth	1680	1683
+T38	ENT 1811 1822	Mrs. Bennet	18	3	Mrs. Bennet	1811	1822
+T39	ENT 1827 1832	Kitty	18	18	Kitty	1827	1832
+T40	ENT 1878 1889	Mr. Collins	18	20	Mr. Collins	1878	1889
+T41	ENT 1922 1936	Miss Elizabeth	18	0	Elizabeth	1922	1936
+T42	ENT 2174 2195	your respected mother	18	3	Mrs. Bennet	2174	2195
+T43	ENT 2418 2427	the house	18	-1	NONE	2418	2427
+T44	ENT 2654 2667	Hertfordshire	18	-1	NONE	2654	2667
+T45	ENT 2697 2703	a wife	18	0	Elizabeth	2697	2703
+T46	ENT 2742 2753	Mr. Collins	18	20	Mr. Collins	2742	2753
+T47	ENT 2765 2768	his	18	20	Mr. Collins	2765	2768
+T48	ENT 2811 2814	his	18	20	Mr. Collins	2811	2814
+T49	ENT 2831 2840	Elizabeth	18	0	Elizabeth	2831	2840
+T50	ENT 2865 2868	she	18	0	Elizabeth	2865	2868
+T51	ENT 2899 2901	he	18	20	Mr. Collins	2899	2901
+T52	ENT 2933 2936	him	18	20	Mr. Collins	2933	2936
+T53	ENT 2951 2953	he	18	20	Mr. Collins	2951	2953
+T54	ENT 3041 3078	every clergyman in easy circumstances	18	20	Mr. Collins	3041	3078
+T55	ENT 3138 3141	his	18	20	Mr. Collins	3138	3141
+T56	ENT 3138 3148	his parish	18	20	Mr. Collins	3138	3148
+T57	ENT 3350 3369	the very noble lady	18	17	Lady Catherine	3350	3369
+T58	ENT 3426 3429	she	18	17	Lady Catherine	3426	3429
+T59	ENT 3454 3457	her	18	17	Lady Catherine	3454	3457
+T60	ENT 3563 3571	Hunsford	18	-1	NONE	3563	3571
+T61	ENT 3583 3605	our pools at quadrille	18	-1	NONE	3583	3605
+T62	ENT 3596 3605	quadrille	18	-1	NONE	3596	3605
+T63	ENT 3614 3628	Mrs. Jenkinson	18	27	OTHER	3614	3628
+T64	ENT 3643 3657	Miss de Bourgh	18	32	MissDeBourgh	3643	3657
+T65	ENT 3678 3681	she	18	17	Lady Catherine	3678	3681
+T66	ENT 3691 3702	Mr. Collins	18	20	Mr. Collins	3691	3702
+T67	ENT 3781 3794	a gentlewoman	18	0	Elizabeth	3781	3794
+T68	ENT 3840 3843	her	18	0	Elizabeth	3840	3843
+T69	ENT 3847 3880	an active , useful sort of person	18	0	Elizabeth	3847	3880
+T70	ENT 3978 3990	such a woman	18	0	Elizabeth	3978	3990
+T71	ENT 4018 4021	her	18	0	Elizabeth	4018	4021
+T72	ENT 4025 4033	Hunsford	18	-1	NONE	4025	4033
+T73	ENT 4053 4056	her	18	0	Elizabeth	4053	4056
+T74	ENT 4098 4112	my fair cousin	18	0	Elizabeth	4098	4112
+T75	ENT 4163 4187	Lady Catherine de Bourgh	18	17	Lady Catherine	4163	4187
+T76	ENT 4262 4265	her	18	17	Lady Catherine	4262	4265
+T77	ENT 4367 4370	her	18	17	Lady Catherine	4367	4370
+T78	ENT 4433 4436	her	18	17	Lady Catherine	4433	4436
+T79	ENT 4584 4593	Longbourn	18	-1	NONE	4584	4593
+T80	ENT 4605 4625	my own neighbourhood	18	-1	NONE	4605	4625
+T81	ENT 4661 4685	many amiable young women	18	27	OTHER	4661	4685
+T82	ENT 4771 4791	your honoured father	18	4	Mr. Bennet	4771	4791
+T83	ENT 4904 4910	a wife	18	0	Elizabeth	4904	4910
+T84	ENT 4922 4925	his	18	4	Mr. Bennet	4922	4925
+T85	ENT 4922 4935	his daughters	18	24	Bennets	4922	4935
+T86	ENT 4955 4959	them	18	24	Bennets	4955	4959
+T87	ENT 5134 5148	my fair cousin	18	0	Elizabeth	5134	5148
+T88	ENT 5405 5416	your father	18	4	Mr. Bennet	5405	5416
+T89	ENT 5549 5554	yours	18	0	Elizabeth	5549	5554
+T90	ENT 5566 5577	your mother	18	3	Mrs. Bennet	5566	5577
+T91	ENT 5836 5839	him	18	20	Mr. Collins	5836	5839
+T92	ENT 5869 5872	sir	18	20	Mr. Collins	5869	5872
+T93	ENT 5878 5881	she	18	0	Elizabeth	5878	5881
+T94	ENT 6194 6205	Mr. Collins	18	20	Mr. Collins	6194	6205
+T95	ENT 6266 6278	young ladies	18	0	Elizabeth	6266	6278
+T96	ENT 6306 6313	the man	18	20	Mr. Collins	6306	6313
+T97	ENT 6355 6357	he	18	20	Mr. Collins	6355	6357
+T98	ENT 6608 6611	sir	18	20	Mr. Collins	6608	6611
+T99	ENT 6623 6632	Elizabeth	18	0	Elizabeth	6623	6632
+T100	ENT 6766 6783	such young ladies	18	0	Elizabeth	6766	6783
+T101	ENT 7010 7019	the world	18	-1	NONE	7010	7019
+T102	ENT 6992 7023	the last woman in the world who	18	0	Elizabeth	6992	7023
+T103	ENT 7055 7066	your friend	18	17	Lady Catherine	7055	7066
+T104	ENT 7067 7081	Lady Catherine	18	17	Lady Catherine	7067	7081
+T105	ENT 7110 7113	she	18	17	Lady Catherine	7110	7113
+T106	ENT 7206 7220	Lady Catherine	18	17	Lady Catherine	7206	7220
+T107	ENT 7246 7257	Mr. Collins	18	20	Mr. Collins	7246	7257
+T108	ENT 7304 7307	her	18	17	Lady Catherine	7304	7307
+T109	ENT 7304 7316	her ladyship	18	17	Lady Catherine	7304	7316
+T110	ENT 7406 7409	her	18	17	Lady Catherine	7406	7409
+T111	ENT 7535 7546	Mr. Collins	18	20	Mr. Collins	7535	7546
+T112	ENT 7898 7907	my family	18	24	Bennets	7898	7907
+T113	ENT 7937 7953	Longbourn estate	18	-1	NONE	7937	7953
+T114	ENT 8084 8087	she	18	0	Elizabeth	8084	8087
+T115	ENT 8101 8104	she	18	0	Elizabeth	8101	8104
+T116	ENT 8124 8132	the room	18	20	Mr. Collins	8124	8132
+T117	ENT 8139 8150	Mr. Collins	18	20	Mr. Collins	8139	8150
+T118	ENT 8170 8173	her	18	0	Elizabeth	8170	8173
+T119	ENT 8453 8458	a man	18	20	Mr. Collins	8453	8458
+T120	ENT 8603 8619	female character	18	0	Elizabeth	8603	8619
+T121	ENT 8637 8648	Mr. Collins	18	20	Mr. Collins	8637	8648
+T122	ENT 8660 8669	Elizabeth	18	0	Elizabeth	8660	8669
+T123	ENT 8936 8950	my dear cousin	18	0	Elizabeth	8936	8950
+T124	ENT 9272 9281	de Bourgh	18	27	OTHER	9272	9281
+T125	ENT 9258 9281	the family of de Bourgh	18	27	OTHER	9258	9281
+T126	ENT 9861 9876	elegant females	18	0	Elizabeth	9861	9876
+T127	ENT 9903 9906	sir	18	20	Mr. Collins	9903	9906
+T128	ENT 9999 10016	a respectable man	18	20	Mr. Collins	9999	10016
+T129	ENT 10300 10317	an elegant female	18	0	Elizabeth	10300	10317
+T130	ENT 10353 10372	a rational creature	18	0	Elizabeth	10353	10372
+T131	ENT 10399 10402	her	18	0	Elizabeth	10399	10402
+T132	ENT 10455 10457	he	18	20	Mr. Collins	10455	10457
+T133	ENT 10571 10593	your excellent parents	18	27	OTHER	10571	10593
+T134	ENT 10694 10703	Elizabeth	18	0	Elizabeth	10694	10703
+T135	ENT 10784 10786	he	18	20	Mr. Collins	10784	10786
+T136	ENT 10812 10815	her	18	0	Elizabeth	10812	10815
+T137	ENT 10876 10879	her	18	0	Elizabeth	10876	10879
+T138	ENT 10876 10886	her father	18	4	Mr. Bennet	10876	10886
+T139	ENT 11045 11062	an elegant female	18	0	Elizabeth	11045	11062

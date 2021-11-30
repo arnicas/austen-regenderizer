@@ -1,0 +1,116 @@
+ent	loc	string	filenum	id	ent_name	start	end
+T0	ENT 56 100	a single man in possession of a good fortune	0	6	Bingley	56	100
+T1	ENT 122 128	a wife	0	2	Jane	122	128
+T2	ENT 177 187	such a man	0	6	Bingley	177	187
+T3	ENT 198 201	his	0	6	Bingley	198	201
+T4	ENT 217 232	a neighbourhood	0	-1	NONE	217	232
+T5	ENT 279 303	the surrounding families	0	-1	NONE	279	303
+T6	ENT 311 313	he	0	6	Bingley	311	313
+T7	ENT 374 389	their daughters	0	24	Bennets	374	389
+T8	ENT 395 402	My dear	0	4	Mr. Bennet	395	402
+T9	ENT 403 413	Mr. Bennet	0	4	Mr. Bennet	403	413
+T10	ENT 424 427	his	0	4	Mr. Bennet	424	427
+T11	ENT 424 432	his lady	0	3	Mrs. Bennet	424	432
+T12	ENT 436 439	him	0	4	Mr. Bennet	436	439
+T13	ENT 473 489	Netherfield Park	0	-1	NONE	473	489
+T14	ENT 510 520	Mr. Bennet	0	4	Mr. Bennet	510	520
+T15	ENT 534 536	he	0	4	Mr. Bennet	534	536
+T16	ENT 574 577	she	0	3	Mrs. Bennet	574	577
+T17	ENT 587 596	Mrs. Long	0	26	Mrs. Long	587	596
+T18	ENT 611 615	here	0	-1	NONE	611	615
+T19	ENT 622 625	she	0	26	Mrs. Long	622	625
+T20	ENT 652 662	Mr. Bennet	0	4	Mr. Bennet	652	662
+T21	ENT 735 738	his	0	4	Mr. Bennet	735	738
+T22	ENT 735 743	his wife	0	3	Mrs. Bennet	735	743
+T23	ENT 894 903	Mrs. Long	0	26	Mrs. Long	894	903
+T24	ENT 914 925	Netherfield	0	-1	NONE	914	925
+T25	ENT 938 966	a young man of large fortune	0	6	Bingley	938	966
+T26	ENT 972 992	the north of England	0	-1	NONE	972	992
+T27	ENT 1000 1002	he	0	6	Bingley	1000	1002
+T28	ENT 1026 1034	a chaise	0	-1	NONE	1026	1034
+T29	ENT 1051 1060	the place	0	-1	NONE	1051	1060
+T30	ENT 1094 1096	it	0	-1	NONE	1094	1096
+T31	ENT 1104 1106	he	0	6	Bingley	1104	1106
+T32	ENT 1119 1129	Mr. Morris	0	-1	NONE	1119	1129
+T33	ENT 1149 1151	he	0	6	Bingley	1149	1151
+T34	ENT 1206 1209	his	0	6	Bingley	1206	1209
+T35	ENT 1198 1218	some of his servants	0	27	OTHER	1198	1218
+T36	ENT 1232 1241	the house	0	-1	NONE	1232	1241
+T37	ENT 1282 1285	his	0	6	Bingley	1282	1285
+T38	ENT 1299 1306	Bingley	0	6	Bingley	1299	1306
+T39	ENT 1318 1320	he	0	6	Bingley	1318	1320
+T40	ENT 1384 1413	A single man of large fortune	0	6	Bingley	1384	1413
+T41	ENT 1469 1478	our girls	0	24	Bennets	1469	1478
+T42	ENT 1514 1518	them	0	24	Bennets	1514	1518
+T43	ENT 1527 1534	My dear	0	4	Mr. Bennet	1527	1534
+T44	ENT 1535 1545	Mr. Bennet	0	4	Mr. Bennet	1535	1545
+T45	ENT 1559 1562	his	0	4	Mr. Bennet	1559	1562
+T46	ENT 1559 1567	his wife	0	3	Mrs. Bennet	1559	1567
+T47	ENT 1638 1641	his	0	6	Bingley	1638	1641
+T48	ENT 1658 1662	them	0	24	Bennets	1658	1662
+T49	ENT 1679 1682	his	0	6	Bingley	1679	1682
+T50	ENT 1702 1706	here	0	-1	NONE	1702	1706
+T51	ENT 1784 1786	he	0	6	Bingley	1784	1786
+T52	ENT 1820 1824	them	0	24	Bennets	1820	1824
+T53	ENT 1856 1859	him	0	6	Bingley	1856	1859
+T54	ENT 1871 1873	he	0	6	Bingley	1871	1873
+T55	ENT 1925 1934	the girls	0	24	Bennets	1925	1934
+T56	ENT 1960 1964	them	0	24	Bennets	1960	1964
+T57	ENT 1968 1978	themselves	0	24	Bennets	1968	1978
+T58	ENT 2055 2059	them	0	24	Bennets	2055	2059
+T59	ENT 2062 2073	Mr. Bingley	0	6	Bingley	2062	2073
+T60	ENT 2099 2108	the party	0	27	OTHER	2099	2108
+T61	ENT 2117 2124	My dear	0	4	Mr. Bennet	2117	2124
+T62	ENT 2251 2258	a woman	0	3	Mrs. Bennet	2251	2258
+T63	ENT 2263 2286	five grown-up daughters	0	24	Bennets	2263	2286
+T64	ENT 2289 2292	she	0	3	Mrs. Bennet	2289	2292
+T65	ENT 2324 2327	her	0	3	Mrs. Bennet	2324	2327
+T66	ENT 2363 2370	a woman	0	3	Mrs. Bennet	2363	2370
+T67	ENT 2460 2471	Mr. Bingley	0	6	Bingley	2460	2471
+T68	ENT 2477 2479	he	0	6	Bingley	2477	2479
+T69	ENT 2491 2508	the neighbourhood	0	-1	NONE	2491	2508
+T70	ENT 2582 2596	your daughters	0	24	Bennets	2582	2596
+T71	ENT 2655 2659	them	0	24	Bennets	2655	2659
+T72	ENT 2662 2673	Sir William	0	14	Sir William Lucas	2662	2673
+T73	ENT 2678 2688	Lady Lucas	0	12	Lady Lucas	2678	2688
+T74	ENT 2776 2788	no newcomers	0	27	OTHER	2776	2788
+T75	ENT 2858 2861	him	0	6	Bingley	2858	2861
+T76	ENT 2930 2941	Mr. Bingley	0	6	Bingley	2930	2941
+T77	ENT 3018 3021	him	0	6	Bingley	3018	3021
+T78	ENT 3046 3049	his	0	6	Bingley	3046	3049
+T79	ENT 3069 3071	he	0	6	Bingley	3069	3071
+T80	ENT 3083 3092	the girls	0	24	Bennets	3083	3092
+T81	ENT 3134 3149	my little Lizzy	0	0	Elizabeth	3134	3149
+T82	ENT 3195 3200	Lizzy	0	0	Elizabeth	3195	3200
+T83	ENT 3226 3236	the others	0	24	Bennets	3226	3236
+T84	ENT 3253 3256	she	0	0	Elizabeth	3253	3256
+T85	ENT 3284 3288	Jane	0	2	Jane	3284	3288
+T86	ENT 3320 3325	Lydia	0	5	Lydia	3320	3325
+T87	ENT 3356 3359	her	0	0	Elizabeth	3356	3359
+T88	ENT 3403 3407	them	0	24	Bennets	3403	3407
+T89	ENT 3426 3430	them	0	24	Bennets	3426	3430
+T90	ENT 3444 3446	he	0	4	Mr. Bennet	3444	3446
+T91	ENT 3489 3500	other girls	0	24	Bennets	3489	3500
+T92	ENT 3507 3512	Lizzy	0	0	Elizabeth	3507	3512
+T93	ENT 3550 3553	her	0	0	Elizabeth	3550	3553
+T94	ENT 3550 3561	her sisters	0	24	Bennets	3550	3561
+T95	ENT 3570 3580	Mr. Bennet	0	4	Mr. Bennet	3570	3580
+T96	ENT 3601 3618	your own children	0	24	Bennets	3601	3618
+T97	ENT 3793 3807	my old friends	0	27	OTHER	3793	3807
+T98	ENT 3993 4031	many young men of four thousand a year	0	6	Bingley	3993	4031
+T99	ENT 4042 4059	the neighbourhood	0	-1	NONE	4042	4059
+T100	ENT 4148 4152	them	0	6	Bingley	4148	4152
+T101	ENT 4230 4234	them	0	6	Bingley	4230	4234
+T102	ENT 4244 4254	Mr. Bennet	0	4	Mr. Bennet	4244	4254
+T103	ENT 4412 4415	his	0	4	Mr. Bennet	4412	4415
+T104	ENT 4412 4420	his wife	0	3	Mrs. Bennet	4412	4420
+T105	ENT 4432 4435	his	0	4	Mr. Bennet	4432	4435
+T106	ENT 4450 4453	Her	0	3	Mrs. Bennet	4450	4453
+T107	ENT 4493 4496	She	0	3	Mrs. Bennet	4493	4496
+T108	ENT 4501 4574	a woman of mean understanding , little information , and uncertain temper	0	3	Mrs. Bennet	4501	4574
+T109	ENT 4582 4585	she	0	3	Mrs. Bennet	4582	4585
+T110	ENT 4605 4608	she	0	3	Mrs. Bennet	4605	4608
+T111	ENT 4617 4624	herself	0	3	Mrs. Bennet	4617	4624
+T112	ENT 4651 4654	her	0	3	Mrs. Bennet	4651	4654
+T113	ENT 4671 4674	her	0	3	Mrs. Bennet	4671	4674
+T114	ENT 4671 4684	her daughters	0	24	Bennets	4671	4684

@@ -1,0 +1,121 @@
+F-Pro	M-Pro	Non-Pro
+she	he	they
+her	him	them
+his second daughter	his second son	his second child
+a lady	a gentleman	a gentleperson
+this young lady	this young man	this young person
+a pretty woman	a handsome man	an attractive person
+what lady	what man	what person
+no horsewoman	no horseman	no rider
+one of those young ladies who seek to recommend themselves to the other sex by undervaluing their own	one of those young gentlemen who seek to recommend themselves to the other sex by undervaluing their own	one of those young persons who seek to recommend themselves to the other sex by undervaluing their own
+your lady	your gentleman	your gentleperson
+Miss Eliza Bennet	Mr. Edward Bennet	Mx Edward Bennet
+herself	himself	themself
+one sister	one brother	one sibling
+She	He	They
+her sister	her brother	her sibling
+the happy woman by whom he finally seated himself	the happy man by whom he finally seated himself	the happy person by whom he finally seated himself
+Her	His	Their
+Miss Bennet	Mr. Bennet	Mx Bennet
+Miss Elizabeth	Mr. Edward Bennet	Mx Edward Bennet
+mistress of Hunsford Parsonage	master of Hunsford Parsonage	manager of Hunsford Parsonage
+your fair partner	your handsome partner	your attractive partner
+that young lady	that young gentleman	that young person
+Miss Eliza	Mr Ed	Mx Ed
+a young lady like yourself	a young gentleman like yourself 	a young gentleperson like yourself
+another daughter	another son	another child
+your fair daughter	your handsome son	your attractive child
+a wife	a husband	a spouse
+such a woman	such a man	such a person
+my fair cousin	my handsome cousin	my attractive cousin
+young ladies	young gentlemen	young persons
+such young ladies	such young gentlemen	such young persons
+the last woman in the world who	the last man in the world who	the last person in the world who
+female character	male character	character
+elegant females	elegant men	elegant people
+an elegant female	an elegant male	an elegant person
+her daughter	her son	her child
+"a very headstrong , foolish girl"	"a very headstrong , foolish boy"	"a very headstrong , foolish child"
+a girl as ever lived	a boy as ever lived	a child as ever lived
+Miss Lizzy	Master Eddie	Mx Eddie
+your daughter	your son	your child
+my dear sister	my dear brother	my dear sibling
+Her daughter	Her son	Her child
+the young ladies in the country	the young gentlemen in the country	the young gentlepersons in the country
+Mr. Collins 's wife	Mr. Collins 's husband	Mr. Collins 's spouse
+a girl	a boy	a child
+her niece	her nephew	her nibling
+"a very genteel , pretty kind of girl"	"a very genteel , handsome kind of boy"	"a very genteel , attractive kind of young person"
+Mrs. Collins 's pretty friend	Mrs. Collins 's handsome friend	Mrs. Collins 's attractive friend
+the fair performer	the handsome performer	the attractive performer
+one young lady	one young gentleman	one young gentleperson
+any lady	any gentleman	any gentleperson
+women 's	men's	person's
+any other woman	any other man	any other person
+madam	sir	msr
+her future niece	her future nephew	her future nibling
+Daughters	Sons	Children
+mistress	master	msr
+ma'am	sir	msr
+their niece	their nephew	their nibling
+Her niece	Her nephew	Her nibling
+the lady	the gentleman	the gentleperson
+the niece	the nephew	the nibling
+a reputed beauty	a reputed hunk	a reputed hottie
+a beauty	a hunk	a hottie
+the handsomest women of my acquaintance	the handsomest men of my acquaintance	the handsomest men of my acquaintance
+my dearest sister	my dearest brother	my dearest sibling
+Dear madam	Dear sir	Dear sir
+Niece	nephew	nephew
+his wife	his husband	his spouse
+a woman who had already refused him	a man who had already refused him	a person who had already refused him
+sister	brother	sibling
+his dear sister	his dear brother	his dear sibling
+her mother	her father	her father
+the same woman	the same man	the same person
+a sister	a brother	a sibling
+a young woman of inferior birth	a young man of inferior birth	a young person of inferior birth
+the wife	the husband	the spouse
+the wife of Mr. Darcy	the husband of Mr. Darcy	the spouse of Mr. Darcy
+"Obstinate , headstrong girl"	"Obstinate , headstrong boy"	"Obstinate , headstrong child"
+"a young woman without family , connections , or fortune"	"a young man without family , connections , or fortune"	"a young person without family , connections , or fortune"
+a gentleman 's daughter	a gentleman 's son	a gentleperson 's child
+a more reasonable young woman	a more reasonable young man	a more reachildable young person
+"Unfeeling , selfish girl"	"Unfeeling , selfish boy"	"Unfeeling , selfish child"
+the sister of Jane	the brother of Jane	the sibling of Jane
+Young ladies	Young gentlemen	Young gentlepersons
+Your daughter	Your son	Your child
+any woman	any man	any person
+his daughter	his son	his child
+a woman	a man	a person
+My dearest sister	My dearest brother	My dearest sibling
+My beauty	My hunk	My hunk
+"the women who were always speaking , and looking"	"the men who were always speaking , and looking"	"the people who were always speaking , and looking"
+Mrs. Darcy	Mr. Darcy	Msr. Darcy
+Aunt	Uncle	Pibling
+aunt	uncle	pibling
+Miss	Mr	Msr
+Mistress	Master	Mx
+lady	gentleman	gentleperson
+Mother	Father	Parent
+mother	father	parent
+daughter	son	child
+daughters	sons	children
+sisters	brothers	siblings
+her	his	their
+patroness	patron	patron
+sister-in-law	brother-in-law	sibling-in-law
+her sex	his sex	their sex
+daughter-in-law	son-in-law	child-in-law
+woman	man	person
+ladies	gentlemen	gentlepersons
+women	men	people
+sister	brother	sibling
+wife	husband	spouse
+madam	sir	msr
+old maid	old bachelor	old celibate
+mamma	pappa	parent
+mother	father	parent
+Mrs.	Mr.	Msr.
+Mrs. Bennet	Mr. Bennet	Msr. Bennet
+girls	boys	children
