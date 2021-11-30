@@ -31,6 +31,8 @@ it's confusing to have Miss Bingley both the hero and villain (I should have swa
 
 There are many!  So many it will be a long blog post.  Gender preference from a marriage standpoint is the least of it.
 
+There's an outstanding code bug related to male possessives right now. "him fears" etc. As well as continued labeling issues to fix.
+
 ## Samples
 
 ### Chapter 1
